@@ -1,0 +1,5 @@
+- Línea 1: Hola, soy Irvyn Geovany
+- Línea 2: Practicando Git y GitHub para la tarea
+- Línea 3: Aprendí a clonar y crear ramas
+- Línea 4: Git es genial para trabajar en equipo
+- Línea 5: ¡Mi aporte está listo para el push!
